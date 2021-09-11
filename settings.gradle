@@ -1,0 +1,3 @@
+include ':SmsReceiver'
+include ':app'
+rootProject.name = "TestAndroidLib"
